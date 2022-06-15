@@ -1,1 +1,1 @@
-My studies class
+My studies class in Alx
